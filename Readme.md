@@ -9,7 +9,7 @@
 - [Link to dataset explorer (shown below)](https://huggingface.co/spaces/nicpopovic/vital_articles_synth_explorer)
 - [Link to overview including video presentation](https://nicpopovic.com/publications/docie)
 
-![Dataset explorer](images/explorer.png)
+![Dataset explorer](images/explorer.gif)
 
 ## Citation
 If you use this code or dataset in your research, please cite our paper:
