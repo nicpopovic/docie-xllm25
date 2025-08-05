@@ -7,6 +7,7 @@
 - [Link to dataset](https://huggingface.co/datasets/nicpopovic/vital_articles_synthetic_information_extraction)
 - [Link to shared task](https://xllms.github.io/DocIE/)
 - [Link to dataset explorer (shown below)](https://huggingface.co/spaces/nicpopovic/vital_articles_synth_explorer)
+- [Link to overview including video presentation](https://nicpopovic.com/publications/docie)
 
 ![Dataset explorer](images/explorer.png)
 
