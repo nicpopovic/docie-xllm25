@@ -6,6 +6,9 @@
 - [Link to paper](https://aclanthology.org/2025.xllm-1.26/)
 - [Link to dataset](https://huggingface.co/datasets/nicpopovic/vital_articles_synthetic_information_extraction)
 - [Link to shared task](https://xllms.github.io/DocIE/)
+- [Link to dataset explorer (shown below)]([https://xllms.github.io/DocIE/](https://huggingface.co/spaces/nicpopovic/vital_articles_synth_explorer))
+
+![Dataset explorer](images/explorer.png)
 
 ## Citation
 If you use this code or dataset in your research, please cite our paper:
